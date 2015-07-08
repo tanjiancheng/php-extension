@@ -1,1 +1,3 @@
 php5.4之后 function_entry 需要改为 zend_function_entry
+
+有空写写php关于扩展中的helloworld
