@@ -1,0 +1,1 @@
+php5.4之后 function_entry 需要改为 zend_function_entry
